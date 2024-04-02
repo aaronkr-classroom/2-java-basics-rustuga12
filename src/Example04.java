@@ -38,5 +38,13 @@ public class Example04 {
 	}
 }
 	//캐스팅
+	double pi = 3.1415927;
+	long l = (long)pi;
+	int i = (int)pi;
+	
+	System.out.println("pi");
+	Sysyem.out.println("l");
+	System.out.println("i");
 	
 		
+
